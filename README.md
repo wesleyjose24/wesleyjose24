@@ -1,0 +1,3 @@
+- Ola meu nome e wesley.loredo@escola.pr.gov.br
+- Eu estou interessado em aprender a programar novas linguagens
+- Eu estou aprendendo a aprogramar recentemente a linguagem JavaScript e Scracht 
